@@ -11,6 +11,9 @@
 This dashboard accompanies the manuscript  
 **“Hybrid Sampling and Stacked Machine Learning on Voice Features for Early Parkinson’s Detection.”**
 
+🖥️ **Try the live app here**:  
+👉 [https://parkinson-voice-analyzer.onrender.com/](https://parkinson-voice-analyzer.onrender.com/)
+
 > **Research‑only disclaimer:** The dashboard is provided **solely for research and educational purposes**.  
 > It is **not** a certified medical device and must **not** be used to make clinical decisions.
 
